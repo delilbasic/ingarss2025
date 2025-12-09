@@ -1,4 +1,5 @@
 pennylane
+qiskit
 scikit-learn
 matplotlib
 numpy
