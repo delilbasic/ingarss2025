@@ -1,6 +1,3 @@
-# 🚧 Under Construction 🚧
-This project is currently being worked on. Stay tuned!
-
 # IEEE GRSS InGARSS 2025, IIIT Bhubaneswar, India
 
 ## QUEST TC Workshop: Quantum Computing for Earth Observation
@@ -15,7 +12,7 @@ December 10, 2025
 ### Fundamentals of Quantum Machine Learning (QML)
 *Amer Delilbasic*
 
-Slides available at `slides/lecture_InGARSS.pptx`
+Slides available at `slides/Lecture_InGARSS.pptx`
 
 ## Hands-on
 ### Getting Started with Quantum Computing Libraries
