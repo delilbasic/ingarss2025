@@ -6,9 +6,7 @@ December 10, 2025
 *Speakers: Artur Miroszewski (Jagiellonian University 🇵🇱), Amer Delilbasic (Forschungszentrum Jülich 🇩🇪 / University of Iceland 🇮🇸)*
 
 ## Lecture
-### Introduction to Quantum Computing and the Landscape of Quantum Technologies
-*Artur Miroszewski*
-
+### Introduction to Quantum Computing
 ### Fundamentals of Quantum Machine Learning (QML)
 *Amer Delilbasic*
 
@@ -30,7 +28,7 @@ Jupyter notebook available at `notebooks/hands_on2.ipynb`.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delilbasic/ingarss2025/blob/main/notebooks/hands_on2.ipynb)
 
 ### Hybrid Architectures: Combining Classical Neural Networks with Quantum Layers
-*Amer Delilbasic*
+*Artur Miroszewski*
 
 Jupyter notebook made by Alessandro Sebastianelli (Lead, QC4EO Working Group, QUEST TC) available at [https://github.com/alessandrosebastianelli/QML4EO-tutorial](https://github.com/alessandrosebastianelli/QML4EO-tutorial). 
 
